@@ -1,0 +1,357 @@
+ 
+ 
+
+.body{
+    background-image: url(ss.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar a{
+    margin-left: 12%;
+    color: wheat;
+    margin-top: 5%;
+
+}
+#home {
+    color: greenyellow;
+   
+}
+.navbar img
+{
+    margin-top: 5%;
+    width: 4%;
+    margin-left: 7%;
+}
+#button{
+color: white;
+background-color: rgb(20, 31, 3);
+border: 2px solid green;
+margin-left: 5%;
+padding: 1.5%;
+border-radius: 8%;
+margin-top: 5%;
+}
+.container{
+    display: flex
+}
+.container p{
+    color: white;
+    margin-left: 7%;
+}
+#color{
+    font-size: 54px;
+}
+#colors{
+    color: rgb(168, 206, 33);
+}
+#colorss{
+    color: rgb(11, 223, 124);
+}
+.container img{
+    width: 245%;
+}
+.img4{
+    width: 12%;
+    margin-top: 7%;
+}
+#buttons{
+    background-color: rgb(140, 218, 15);
+    color: black;
+    border: none;
+    margin-left: 7%;
+    padding: 2.5%;
+    border-radius: 8%;
+    margin-top: 5%;
+}
+.laces{
+    display: flex;
+    background-color: rgb(146, 245, 53);
+   padding: 2%;
+    gap: 8%;
+      
+}
+.laces h2{
+    margin-left: 5%;
+}
+#font{
+    font-size: 30px;
+    margin-top: -13%;
+}
+#size{
+    font-weight: 400;
+}
+ion-icon{
+    width: 100%;
+    height: 40%;
+   
+}
+.ion h2{
+    margin-top:-2% ;
+}
+#hdk{
+    font-style: italic;
+    font-weight: 700;
+    font-size: 35px;
+    
+}
+#k{
+    font-size: 40px;
+    font-weight: 100;
+    
+}
+#hd{
+    font-style: italic;
+    font-weight: 700;
+    font-size: 40px;
+}
+.crypto{
+    display: flex;
+    color: wheat;
+    gap: 42%;
+    margin-left: 5%;
+    font-size: 25px;
+}
+table{
+    background-color: rgb(37, 37, 46);
+    border-radius: 5%;
+     text-align: center;
+    font-size: 10px;
+    width: 80%;
+    height: 67px;
+     margin-left :10%; 
+    color: rgb(252, 249, 245);
+    padding: 2px auto;
+    margin-bottom: 12%;
+     
+}
+.ones{
+    height: 38%;
+    width: 28%;
+    
+   
+}
+.ones img{
+border-radius: 12%;
+}
+.table td{
+    padding: 2%;
+    
+}
+td img{
+    width: 12%;
+    height: 12%;
+}
+td button{
+    border: 2px solid pink;
+    background-color: rgb(26, 26, 44);
+    color: white;
+    border-radius: 35%;
+    
+}
+.image {
+    display: flex;
+    margin-left:30%;
+    margin-top: -34%;
+    gap: 16%;
+}
+.image img{
+    border-radius: 12%;
+    height: 300px;
+    width: 150%;
+    border: 2px solid rgb(4, 192, 4);
+}
+.images img{
+  border-radius: 12%; 
+  margin-left: 5%; 
+  width: 22%;
+  height:300px ;
+  margin-bottom: 2%;
+  border: 2px solid rgb(4, 192, 4);
+}
+.crypto2 h2{
+font-size: 33px;
+color:white;
+}
+.crypto2 p{
+    color: white;
+    font-size: 12px;
+}
+.crypto2 button{
+    background-color: rgb(140, 218, 15);
+    color: black;
+    border: none;
+    margin-left: 7%;
+    padding: 5%;
+    border-radius: 8%;
+    margin-top: 5%;
+}
+.crypto3{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 7%;
+}
+.crypto3 h4{
+    font-size: 12px;
+    color:rgb(178, 221, 23);
+}
+.crypto3 h2{
+    font-size: 33px;
+    color:white;  
+}
+.crypto3 p{
+    color: white;
+}
+.crypto3 button{
+   
+    color:greenyellow;
+background-color: rgb(20, 31, 3);
+border: 2px solid green;
+margin-left: 5%;
+padding-left: 8%;
+padding-right: 8%;
+border-radius: 8%;
+margin-top: 5%;
+}
+.crypto4 {
+   display: flex; 
+   gap: 2%;
+   
+}
+.crypto4 img{
+    height: 65%;
+    width:79%;
+    border-radius: 12%;
+    border: 2px solid  rgb(4, 4, 29);
+    margin-left: 152%;
+}
+.imgs{
+margin-top: 22%;
+}
+.currency{
+    display: flex;
+    gap: 12%;
+    margin-left: 7%;
+}
+.currency img{
+    width: 100%;
+    margin-top: 26%;
+    height: 60%;
+    border-radius: 12%;
+}
+.imgss{
+    display: flex;
+}
+.imgss img{
+    width: 52%;
+    border-radius: 12%;
+    margin-top:12% ;
+}
+.ring h2{
+color: white;
+}
+.ring p{
+    color: white;
+}
+.phones{
+    display: flex;
+    gap: 12%;
+    margin-left:7%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+}
+.phones img{
+    width: 150%;
+}
+.portfolio h2{
+    color: white;
+    font-size: 43px;
+}
+.portfolio p{
+    color: white;
+}
+.portfolio h3{
+    color: rgb(163, 240, 20);
+
+}
+.portfolio button{
+    background-color: transparent;
+    padding: 10px 6px;
+    margin: 2% 4%;
+    border-radius:24px ;
+   
+    
+}
+.end{
+text-align: center;
+background-color:rgb(51, 57, 59);
+font-size: 28px;
+width: 75%;
+height: 260px;
+margin-left:12%;
+color: white;
+border-radius: 5%;
+
+}
+.end h3{
+    font-size: 20px;
+    color: rgb(163, 240, 20);
+    
+}
+.end button{
+    background-color: transparent;
+    padding: 10px 6px;
+    margin: 2% 4%;
+    border-radius:24px ;
+   
+}
+#button4{
+    background-color:transparent;
+    border: 2px solid rgb(24, 23, 20);
+    width: 55%;
+    margin-left: 25%;
+    border-radius: 26px;
+    margin-top: 5%;
+}
+#button5{
+    background-color:rgb(163, 240, 20) ;
+}
+.ending{
+    display: flex;
+    gap: 12%;
+    margin-top: 12%;
+}
+.ending img{
+    margin-top: 5%;
+    width: 30%;
+   
+}
+.ending p {
+    color:  white;
+}
+.ending h3{
+    color: white;
+}
+.footer{
+    display: flex;
+    color:  rgb(16, 212, 81);
+    gap: 40%;
+    margin-left: 7%;
+    
+}
+hr{
+   width: 72%;
+   margin-left: 7%;
+   margin-right: 7%;
+   color:  rgb(16, 212, 81),rgb(207, 134, 23);
+
+}
+.ends{
+    margin-left: 7%;
+}
+.button4 button{
+    background-color: transparent;
+    padding: 10px 6px;
+    margin: 2% 4%;
+    border-radius:24px ;
+}
+
